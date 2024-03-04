@@ -13968,7 +13968,7 @@
   "faucets": [],
   "explorers": [{
     "name": "DisChain",
-    "url": "https://scan.dischain.xyz",
+    "url": "https://www.oklink.com/dis",
     "standard": "EIP3091"
   }],
   "infoURL": "https://dischain.xyz"
